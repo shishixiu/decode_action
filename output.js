@@ -1,4 +1,4 @@
-//Fri Oct 11 2024 15:52:51 GMT+0000 (Coordinated Universal Time)
+//Mon Jan 06 2025 18:14:55 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("\u671B\u6F6E");
